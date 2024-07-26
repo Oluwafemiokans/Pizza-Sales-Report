@@ -38,3 +38,11 @@ In the initial data preparation phase, we performed the following
 5. What are the total orders by month
 
 6. What is the average order in a day
+
+## Recommendations
+
+1. I recommend exploring customer preferences through surveys or feedback forms to tailor offerings to their tastes.
+
+2. Consider promotions, loyalty programs, or new menu items to boost sales.
+
+3. Analyzing peak hours and popular choices can help optimize inventory management and staffing.
